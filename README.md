@@ -113,7 +113,7 @@
 
   * My Draw.io diagrams - I have a particular love for clarity, and while I can note down a messy plan should I need to, I much prefer to use Draw.io to make cute diagrams. I used to really struggle with modelling in the first couple of weeks, and I think a big part of it was I couldn't understand what the class diagrams from the workshops meant. After Sophie enlightened us to the various types of diagramming, I was kickstarted an awful lot after seeing that there's a wide variety of professional diagramming techniques. Once Kat told me that the most important thing is getting your ideas down on paper, I was much happier too. I've got a big collection of diagrams, from class to active flow, proving that I could diagram in a professional and clear way. However that's not as far as my diagramming skills go. In one particular workshop in week 3, a couple of my cohort members were struggling to understand the MVC model, and the HTTP Response diagram. Alice quite liked my ability to explain my point in a less technological way, so she asked me to make a poster to put up in the toilets which is pretty cool if you ask me. You can see it here..
 
-  ![](/Portfolio Images/ActiveFlow.png)
+  ![](/images/ActiveFlow.png)
    ### Feedback
 
   Bart : Makers BnB- “It was really difficult to distinguish who did what during the week with the pairing sessions so feel that I can't really make an assessment from that. However, when we did pair up I felt the planning process was exceptional. The discussing, then researching, then implementing was top notch. I felt we bounced off each other well.”
