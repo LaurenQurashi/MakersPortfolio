@@ -49,6 +49,9 @@
 
    ### Evidence and explanation
 
+   * [Me TDD'ing Fizzbuzz Javascript](https://youtu.be/1MdWAMm-U_s)
+
+
    * The Notes App - Javascript repo. This project was our first introduction into testing without a testing framework such as RSpec or Jasmine to help us along. I feel that this repo shows that I can write clear, concise tests, without the help of a testing framework. The tests in this repo follow 'the next smallest step' kind of fashion, and are also riddled with doubles and mocks to ensure that I'm testing what I want to test. This repo also shows a good example, in the notes-list-spec.js file, of my fave TDD'ing process Red to Green. I started off testing the smallest thing that is required of this object - that my notes list contained an array. The tests progressively grow in small steps, into a list of notes that I was completely confident of. This testing checks the behaviour of the list rather than the state, and ensures I am testing the right thing by employing doubles. In the first 5 weeks, I really struggled with mocks and doubles, especially in Rspec. I found I could completely understand their purpose and how they worked, but I just couldn't implement them into my work. After moving onto javascript, I found I could easily implement doubles into my work which flourished my ability to identify the need for them in my projects. I now feel comfortable in saying that I have a good understanding of not only why we test, but how to test effectively.  
 
    * Airport - Ruby repo. This repo shows my first experience in TDD, and while it may not be the best example of testing, it helps illustrate how far I've come since week 1. I do feel however, that this example shows  that during week 1 that I got stuck into the testing and shows evidence of me understanding the basics of what a good test is.
@@ -174,7 +177,7 @@
 
    - Hopefully if I've managed to fix it then all is well! If I'm in a pair, then I ALWAYS make sure to explain what happened to the other person, it may be annoying / obvious to them, but it helps me consolidate what I did.
 
-  * [Me Debugging Acebook](https://youtu.be/8N-RRRv9MoY)
+  
 
   One example of my approach stemmed from the week 6 makers BnB challenge. I put myself forward to work on making a SPA that interacted with an API we had created. The main reason I had put myself forward for this task was due to never working with this sort of technology myself before, so to a large extent, the whole task was a problem to be solved. I still followed a process towards combatting this task however, which followed the guidelines of my approach. I understood that the problem was that I didn't know how to start off a Javascript file that dealt with JQuery. I didn't know what was included, or what needed to be separated into a separate file or pretty much anything, so that was the first 3 steps wiped out! I decided to research into the JQuery thing, and got an awful lot of good info, but was still stuck on what needed to be in a separate file etc. I decided to ask my team for help, who helped me piece together the layout to my page. I then explained what had happened back to my helpful team members, who confirmed I knew what was going on!
 
