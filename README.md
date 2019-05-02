@@ -22,7 +22,10 @@
 * [*I can learn anything by myself*](#learn-anything)
 ------------------
 
+
+
 # **I Can Make Anything**<a name="make-anything" />
+
 
   ## I Can TDD Anything<a name="tdd-anything" />
 
@@ -42,21 +45,22 @@
 
    * Plan a new feature - now you have your plane class... use the process to make it respond to the fly method.
 
-  To me, being able to TDD anything means that you can approach any type of software, and use any type of TDD’ing technique to further its development. This could include your general code, or even just problems in everyday life, all in an attempt to understand how things work. Good TDD practice includes starting with small tests and doing the absolute least to be able to pass them, all while ensuring you don’t assume anything about the code you’ve written. To combat any assumptions, you should also test edge cases and the existence of your classes / objects. Good TDD ability includes aiming to test behaviour (not state), and applying processes such as the Red to Green Race technique. Another good practice is committing your tests to Github before deleting them once rendered obsolete. While I may be no way near close to knowing everything there is to know about coding and problem solving, I believe the ability to TDD anything comes from the practice of applying this method to driving development in whatever you may be focusing on.
+    To me, being able to TDD anything means that you can approach any type of software, and use any type of TDD’ing technique to further its development. This could include your general code, or even just problems in everyday life, all in an attempt to understand how things work. Good TDD practice includes starting with small tests and doing the absolute least to be able to pass them, all while ensuring you don’t assume anything about the code you’ve written. To combat any assumptions, you should also test edge cases and the existence of your classes / objects. Good TDD ability includes aiming to test behaviour (not state), and applying processes such as the Red to Green Race technique. Another good practice is committing your tests to Github before deleting them once rendered obsolete. While I may be no way near close to knowing everything there is to know about coding and problem solving, I believe the ability to TDD anything comes from the practice of applying this method to driving development in whatever you may be focusing on.
 
    ### Evidence and explanation
 
-  * The Notes App - Javascript repo. This project was our first introduction into testing without a testing framework such as RSpec or Jasmine to help us along. I feel that this repo shows that I can write clear, concise tests, without the help of a testing framework. The tests in this repo follow 'the next smallest step' kind of fashion, and are also riddled with doubles and mocks to ensure that I'm testing what I want to test. This repo also shows a good example, in the notes-list-spec.js file, of my fave TDD'ing process Red to Green. I started off testing the smallest thing that is required of this object - that my notes list contained an array. The tests progressively grow in small steps, into a list of notes that I was completely confident of. This testing checks the behaviour of the list rather than the state, and ensures I am testing the right thing by employing doubles. In the first 5 weeks, I really struggled with mocks and doubles, especially in Rspec. I found I could completely understand their purpose and how they worked, but I just couldn't implement them into my work. After moving onto javascript, I found I could easily implement doubles into my work which flourished my ability to identify the need for them in my projects. I now feel comfortable in saying that I have a good understanding of not only why we test, but how to test effectively.  
+   * The Notes App - Javascript repo. This project was our first introduction into testing without a testing framework such as RSpec or Jasmine to help us along. I feel that this repo shows that I can write clear, concise tests, without the help of a testing framework. The tests in this repo follow 'the next smallest step' kind of fashion, and are also riddled with doubles and mocks to ensure that I'm testing what I want to test. This repo also shows a good example, in the notes-list-spec.js file, of my fave TDD'ing process Red to Green. I started off testing the smallest thing that is required of this object - that my notes list contained an array. The tests progressively grow in small steps, into a list of notes that I was completely confident of. This testing checks the behaviour of the list rather than the state, and ensures I am testing the right thing by employing doubles. In the first 5 weeks, I really struggled with mocks and doubles, especially in Rspec. I found I could completely understand their purpose and how they worked, but I just couldn't implement them into my work. After moving onto javascript, I found I could easily implement doubles into my work which flourished my ability to identify the need for them in my projects. I now feel comfortable in saying that I have a good understanding of not only why we test, but how to test effectively.  
 
-  * Airport - Ruby repo. This repo shows my first experience in TDD, and while it may not be the best example of testing, it helps illustrate how far I've come since week 1. I do feel however, that this example shows  that during week 1 that I got stuck into the testing and shows evidence of me understanding the basics of what a good test is.
+   * Airport - Ruby repo. This repo shows my first experience in TDD, and while it may not be the best example of testing, it helps illustrate how far I've come since week 1. I do feel however, that this example shows  that during week 1 that I got stuck into the testing and shows evidence of me understanding the basics of what a good test is.
 
-  * RPS challenge - Ruby Repo. This is only a small example, however I wanted to also express my understanding in feature testing. I never really got far enough in most of my projects to start implementing intense CSS and other features, however the RPS challenge has a few small examples of my understanding of Capybara testing.
+   * RPS challenge - Ruby Repo. This is only a small example, however I wanted to also express my understanding in feature testing. I never really got far enough in most of my projects to start implementing intense CSS and other features, however the RPS challenge has a few small examples of my understanding of Capybara testing.
 
    ### Feedback
 
    Sam: Makers BnB - “You have a solid understanding of TDD even if you can't always get the syntax to work for you. The syntax will come (and will change every time you change language) but you clearly understand and strive for following the process of writing a test, failing a test, passing the test. This helps you to write only what is required without jumping ahead.
 
    Lisa: Mentee - "Thank you for showing me the ropes with TDD, I was struggling a bit with it at the beginning but you've made it a lot clearer, especially the feature tests. It's hard to understand when there's nothing to see with no front end. I was even able to explain the doubles thing to someone else on my cohort so I'm pretty sure I get it now."
+
 
   ## I Can Program Fluently<a name="program-fluently" />
 
@@ -66,42 +70,45 @@
 
    ### Evidence and explanation
 
-  * Repos showing good quality code - confirmed by coaches. (Bowling? Instagram repo?)
-  * Screen Recording of me doing a process workshop.
-  * Instagram Repo? (if you get a chance)
+   * Repos showing good quality code - confirmed by coaches. (Bowling? Instagram repo?)
+   * Screen Recording of me doing a process workshop.
+   * Instagram Repo? (if you get a chance)
 
    ### Feedback
 
-    Paul: Oystercard - "I was really impressed how you managed to jot down a load of potential options on a plan for how your station - card interaction should work."
+   Paul: Oystercard - "I was really impressed how you managed to jot down a load of potential options on a plan for how your station - card interaction should work."
 
-    Kat (coach) - " You've done a really good job of making up this view file, I can see CSS and HTML is something you have a knack for!"
+   Kat (coach): Battle - " You've done a really good job of making up this view file, I can see CSS and HTML is something you have a knack for!"
+
 
   ## I Can Debug Anything<a name="debug-anything" />
 
-
    ### What does it mean to be able to do this?
 
-  Being able to debug anything is a bit of a big statement to me, however I feel that to be able to debug anything means being able to approach any software problem you may face, and attempt to tackle it by having a methodological approach to finding and solving a bug. Debugging anything does not mean that you’re able to solve all the problems you’ll ever face single-handedly, but I feel that having the confidence to follow the process and come to a verdict of what the issue is, makes you able to debug anything, as all that follows from there is learning how to fix the bug.
+   Being able to debug anything is a bit of a big statement to me, however I feel that to be able to debug anything means being able to approach any software problem you may face, and attempt to tackle it by having a methodological approach to finding and solving a bug. Debugging anything does not mean that you’re able to solve all the problems you’ll ever face single-handedly, but I feel that having the confidence to follow the process and come to a verdict of what the issue is, makes you able to debug anything, as all that follows from there is learning how to fix the bug.
 
-  My method for debugging is a simple (and very common) one:
+   My method for debugging is a simple (and very common) one:
 
-  * I'll start off by tightening the loop with my error message, making sure I've completely read it, especially the type of error and the line it occurs on. You're not always lucky enough to have this, especially if you don't have a framework. So make sure you take advantage of your stack traces and your error types.
+   * I'll start off by tightening the loop with my error message, making sure I've completely read it, especially the type of error and the line it occurs on. You're not always lucky enough to have this, especially if you don't have a framework. So make sure you take advantage of your stack traces and your error types.
 
-  * The second step is to go to the line of conflict and investigate. The best way to do this is to get visibility of all your variables, methods, etc. So print out what you can to fully understand if you can see where something is going wrong. If you find it, great! if not, is there anything that might be having an influence on it like another method?
+   * The second step is to go to the line of conflict and investigate. The best way to do this is to get visibility of all your variables, methods, etc. So print out what you can to fully understand if you can see where something is going wrong. If you find it, great! if not, is there anything that might be having an influence on it like another method?
 
-  * The third step is to solve the bug. Once you know what's going on, only change one thing at a time. You don't want to be changing everything and not know how you fixed it, or even worse, break it more. Solving the bug can come in many forms. My first thought "would be can I solve this?" second would be "have I seen this before?" after that, it would be to go and find out. I'd google the error message, the type of problem I'm having, and should that not be fruitful, asking for help is never a bad idea.
+   * The third step is to solve the bug. Once you know what's going on, only change one thing at a time. You don't want to be changing everything and not know how you fixed it, or even worse, break it more. Solving the bug can come in many forms. My first thought "would be can I solve this?" second would be "have I seen this before?" after that, it would be to go and find out. I'd google the error message, the type of problem I'm having, and should that not be fruitful, asking for help is never a bad idea.
 
-  I always used to have a bit of a complex when solving bugs, I used to think that if I couldn't do it, it was cheating to ask for help. But never suffer in silence, it's not productive. One big thing I've learnt is to not be so hard on myself, this stuff comes with knowledge, and that comes from experience. If you want a challenge but need some help, try just asking for a hint at what to look at. But there's nothing wrong with learning from the actions of others.
+   I always used to have a bit of a complex when solving bugs, I used to think that if I couldn't do it, it was cheating to ask for help. But never suffer in silence, it's not productive. One big thing I've learnt is to not be so hard on myself, this stuff comes with knowledge, and that comes from experience. If you want a challenge but need some help, try just asking for a hint at what to look at. But there's nothing wrong with learning from the actions of others.
 
    ### Evidence and explanation
-  * [Me Debugging Acebook](https://youtu.be/8N-RRRv9MoY)
-  * Screen recording of Acebook debugging - The bug that we squashed was lurking round the create method for new instant messages. Any time we'd try to create a new message, It would throw a NoMethodError. I started off by reading the error message on the screen, to find out what area was giving us grief. The error said that it was in the messages HTML page, so I went to investigate. There was nothing in there for me to really get any visibility on, so we moved back a step to the controller as I knew the controller needed to deal with any variables that the views needed. Once I had found an area to investigate, my next step was to get some visibility. I printed out the message instance variable to see whether it was picking up on what a message was. The stack trace in the terminal showed us an empty message instance so I knew that it wasn't an issue with the message itself. The error message we got in terminal showed that 'username' was an undefined method for user. This prompted me to look at what features I could call on my user. If it wasn't for this, my next option would have been to investigate whether my messages instance was holding the all the messages properly. Once going through the database for the Users, saw that I didn't actually have a username for my users, rather a first and last name. This prompted me to change the username to first name, which solved the bug and printed out the name of the user typing the message.
+
+   * [Me Debugging Acebook](https://youtu.be/8N-RRRv9MoY)
+
+   * Screen recording of Acebook debugging - The bug that we squashed was lurking round the create method for new instant messages. Any time we'd try to create a new message, It would throw a NoMethodError. I started off by reading the error message on the screen, to find out what area was giving us grief. The error said that it was in the messages HTML page, so I went to investigate. There was nothing in there for me to really get any visibility on, so we moved back a step to the controller as I knew the controller needed to deal with any variables that the views needed. Once I had found an area to investigate, my next step was to get some visibility. I printed out the message instance variable to see whether it was picking up on what a message was. The stack trace in the terminal showed us an empty message instance so I knew that it wasn't an issue with the message itself. The error message we got in terminal showed that 'username' was an undefined method for user. This prompted me to look at what features I could call on my user. If it wasn't for this, my next option would have been to investigate whether my messages instance was holding the all the messages properly. Once going through the database for the Users, saw that I didn't actually have a username for my users, rather a first and last name. This prompted me to change the username to first name, which solved the bug and printed out the name of the user typing the message.
 
    ### Feedback
 
-  Bart : Makers BnB - “I was also impressed with your Github best practices when debugging. You were always conscious of making sure that we tested one thing at a time, and always following the correct protocol.”
+   Bart: Makers BnB - “I was also impressed with your Github best practices when debugging. You were always conscious of making sure that we tested one thing at a time, and always following the correct protocol.”
 
-  Jeremy : Battle - "you're pretty good at making sure you know exactly what you're looking at. I never would have thought to check the things you were looking at to see if they were what you expected."
+   Jeremy: Battle - "you're pretty good at making sure you know exactly what you're looking at. I never would have thought to check the things you were looking at to see if they were what you expected."
+
 
   ## I Can Model Anything<a name="model-anything" />
 
@@ -111,89 +118,90 @@
 
    ### Evidence and explanation
 
-  * My Draw.io diagrams - I have a particular love for clarity, and while I can note down a messy plan should I need to, I much prefer to use Draw.io to make cute diagrams. I used to really struggle with modelling in the first couple of weeks, and I think a big part of it was I couldn't understand what the class diagrams from the workshops meant. After Sophie enlightened us to the various types of diagramming, I was kickstarted an awful lot after seeing that there's a wide variety of professional diagramming techniques. Once Kat told me that the most important thing is getting your ideas down on paper, I was much happier too. I've got a big collection of diagrams, from class to active flow, proving that I could diagram in a professional and clear way. However that's not as far as my diagramming skills go. In one particular workshop in week 3, a couple of my cohort members were struggling to understand the MVC model, and the HTTP Response diagram. Alice quite liked my ability to explain my point in a less technological way, so she asked me to make a poster to put up in the toilets which is pretty cool if you ask me. You can see it here..
+   * My Diagrams - I have a particular love for clarity, and while I can note down a messy plan should I need to, I much prefer to use Draw.io to make cute diagrams. I used to really struggle with modelling in the first couple of weeks, and I think a big part of it was I couldn't understand what the class diagrams from the workshops meant. After Sophie enlightened us to the various types of diagramming, I was kickstarted an awful lot after seeing that there's a wide variety of professional diagramming techniques. Once Kat told me that the most important thing is getting your ideas down on paper, I was much happier too. I've got a big collection of diagrams, from class to active flow, proving that I could diagram in a professional and clear way. However that's not as far as my diagramming skills go. In one particular workshop in week 3, a couple of my cohort members were struggling to understand the MVC model, and the HTTP Response diagram. Alice quite liked my ability to explain my point in a less technological way, so she asked me to make a poster to put up in the toilets which is pretty cool if you ask me. You can see it here..
 
-  ![](/images/ActiveFlow.png)
+   How the Internet Works poster for Alice:
+   ![](/images/Poster_Internet.png)
+
+   Other types of Diagrams :
+   ![](/images/ActiveFlow.png)
+
+   ![](/images/CRC.png)
+
+   ![](/images/Bookmarks.png)
+
    ### Feedback
 
-  Bart : Makers BnB- “It was really difficult to distinguish who did what during the week with the pairing sessions so feel that I can't really make an assessment from that. However, when we did pair up I felt the planning process was exceptional. The discussing, then researching, then implementing was top notch. I felt we bounced off each other well.”
+   Bart: Makers BnB- “It was really difficult to distinguish who did what during the week with the pairing sessions so feel that I can't really make an assessment from that. However, when we did pair up I felt the planning process was exceptional. The discussing, then researching, then implementing was top notch. I felt we bounced off each other well.”
 
-  Alice (coach) : "Your diagramming skills are really good. I like the range of examples you've got and I like how you are able to put it into non technical and funny terms for others who may not understand."
+   Alice (coach): Poster - "Your diagramming skills are really good. I like the range of examples you've got and I like how you are able to put it into non technical and funny terms for others who may not understand."
+
 
   ## I Can Refactor Anything<a name="refactor-anything" />
 
    ### What does it mean to be able to do this?
 
-  This simply means that you have the ability to reconsider the code you have, in order to make it clearer. The code should be easy to read, and have a clear direction. Refactoring doesn’t necessarily mean making your code shorter, or more complex. Refactoring is all about making sure your code is to the best standard it can be, whilst being clear to others and easy to change.
+   This simply means that you have the ability to reconsider the code you have, in order to make it clearer. The code should be easy to read, and have a clear direction. Refactoring doesn’t necessarily mean making your code shorter, or more complex. Refactoring is all about making sure your code is to the best standard it can be, whilst being clear to others and easy to change.
 
    ### Evidence and explanation
-* Commit histories that show my refactoring.
-* Showing that I’ve gone back over old repos and refactored my code.
+   * Commit histories that show my refactoring.
+   * Showing that I’ve gone back over old repos and refactored my code.
 
    ### Feedback
 
-* Matt T : Boris Bikes - "I really liked how you made it work first, committed it, then went back to refactor. It shows that you value functioning code before trying to change anything. I admired that when you refactored the Docking Station, you'd only change something if it was still clear what it would do."
+   Matt T: Boris Bikes - "I really liked how you made it work first, committed it, then went back to refactor. It shows that you value functioning code before trying to change anything. I admired that when you refactored the Docking Station, you'd only change something if it was still clear what it would do."
 
-* Alex : Acebook - " You're good at recognising what needed to be done in rails, and then seeing if there was another way of putting it, for example, the routing. You changed it from arrow notation to something a bit shorter."
+   Alex: Acebook - " You're good at recognising what needed to be done in rails, and then seeing if there was another way of putting it, for example, the routing. You changed it from arrow notation to something a bit shorter."
+
 
   ## I Have A Methodical Approach To Solving Problems<a name="methodical-approach" />
 
    ### What does it mean to be able to do this?
 
-  A methodological approach to solving problems includes following a procedure in order to tackle a problem. More generally, it means having a thoughtful effort towards investigating problems, rather than trying things and hoping they work.
+   A methodological approach to solving problems includes following a procedure in order to tackle a problem. More generally, it means having a thoughtful effort towards investigating problems, rather than trying things and hoping they work.
 
    ### Evidence and explanation
-  * My process to solving a problem is a short one, however it applies to nearly all situations in life that require a bit of research to get over an issue. It's quite similar to my debugging process actually.
 
-  - First I ask myself whether I understand the problem at hand. I need to be able to clearly explain the issue to someone else in order to move on.
+   My process to solving a problem is a short one, however it applies to nearly all situations in life that require a bit of research to get over an issue. It's quite similar to my debugging process actually.
 
-  - Once I know the issue, I ask myself if I know how to solve it. If I do then that's great, all sorted, if not, my next thought is to whether I've encountered it before. There's no point re-finding out a solution if I've got the code to fix it at hand.
+   - First I ask myself whether I understand the problem at hand. I need to be able to clearly explain the issue to someone else in order to move on.
 
-  - If both of those options fail, It's on to some trusty research to see if people on the internet can sort it for me through the medium of education. I'll usually google it, and if that falls through then I'll ask for help, there's no shame in that especially if you can get some useful knowledge from it.
+   - Once I know the issue, I ask myself if I know how to solve it. If I do then that's great, all sorted, if not, my next thought is to whether I've encountered it before. There's no point re-finding out a solution if I've got the code to fix it at hand.
 
-  - Then it's on to implementing the solution. If this doesn't work, it's back to the research step.
+   - If both of those options fail, It's on to some trusty research to see if people on the internet can sort it for me through the medium of education. I'll usually google it, and if that falls through then I'll ask for help, there's no shame in that especially if you can get some useful knowledge from it.
 
-  - Hopefully if I've managed to fix it then all is well! If I'm in a pair, then I ALWAYS make sure to explain what happened to the other person, it may be annoying / obvious to them, but it helps me consolidate what I did.
+   - Then it's on to implementing the solution. If this doesn't work, it's back to the research step.
+
+   - Hopefully if I've managed to fix it then all is well! If I'm in a pair, then I ALWAYS make sure to explain what happened to the other person, it may be annoying / obvious to them, but it helps me consolidate what I did.
 
   * [Me Debugging Acebook](https://youtu.be/8N-RRRv9MoY)
 
   One example of my approach stemmed from the week 6 makers BnB challenge. I put myself forward to work on making a SPA that interacted with an API we had created. The main reason I had put myself forward for this task was due to never working with this sort of technology myself before, so to a large extent, the whole task was a problem to be solved. I still followed a process towards combatting this task however, which followed the guidelines of my approach. I understood that the problem was that I didn't know how to start off a Javascript file that dealt with JQuery. I didn't know what was included, or what needed to be separated into a separate file or pretty much anything, so that was the first 3 steps wiped out! I decided to research into the JQuery thing, and got an awful lot of good info, but was still stuck on what needed to be in a separate file etc. I decided to ask my team for help, who helped me piece together the layout to my page. I then explained what had happened back to my helpful team members, who confirmed I knew what was going on!
 
-   ### Feedback
-   Henry - Makers BnB : "I admired that you knew what to do when you didn't know what to do, in the sense that while you didn't understand the javascript file, you had an action plan of how you were going to find out. It shows it's helpful to have a plan with problems and bugs."
-
+  ### Feedback
+  Henry: Makers BnB - "I admired that you knew what to do when you didn't know what to do, in the sense that while you didn't understand the javascript file, you had an action plan of how you were going to find out. It shows it's helpful to have a plan with problems and bugs."
 
 -----------
-
 
 # **I Help My Teams Succeed**<a name="teams-succeed" />
 
 
   ## I Use An Agile Product Development Process<a name="agile-process" />
 
-
    ### What does it mean to be able to do this?
-
 
    ### Evidence and explanation
 
-
    ### Feedback
-
-
 
 
   ## I Write Code That Is Easy To Change<a name="easy-to-change" />
 
    ### What does it mean to be able to do this?
 
-
    ### Evidence and explanation
 
-
    ### Feedback
-
-
 
 
   ## I Can Justify The Way I Work In a Business Context<a name="buisness-context" />
@@ -210,37 +218,31 @@
 
    ### Feedback
 
-   Masha : Acebook - "I'm pleased you mentioned doing things the long way with the chat messages as I felt like I was learning nothing with rails. At least I can walk away from this week with something new."
+   Masha: Acebook - "I'm pleased you mentioned doing things the long way with the chat messages as I felt like I was learning nothing with rails. At least I can walk away from this week with something new."
 
-   Sam : MakersBnB - "The way we played to our weaknesses was definitely a good move for us. Although our end product was significantly less developed than the others', I think the decisions you put forward helped us develop as a team and learn something new."
+   Sam: MakersBnB - "The way we played to our weaknesses was definitely a good move for us. Although our end product was significantly less developed than the others', I think the decisions you put forward helped us develop as a team and learn something new."
 
-   Sophie (coach) : "It's really good that you're looking at the two routes to take your project down. There's definitely an easy way and a harder way but if you think it'll be beneficial to you to take the hard way then go for it."
+   Sophie (coach): MakersBnB - "It's really good that you're looking at the two routes to take your project down. There's definitely an easy way and a harder way but if you think it'll be beneficial to you to take the hard way then go for it."
+
 
   ## I Can Grow Collaboratively<a name="grow-collaboratively" />
 
    ### What does it mean to be able to do this?
 
-
    ### Evidence and explanation
-
-
 
    ### Feedback
 
-
 ------------
-
 
 # **I Am Equipped For Long Term Growth**<a name="long-term" />
 
 
   ## I Manage My Own Wellbeing<a name="well-being" />
 
-
    ### What does it mean to be able to do this?
 
    To manage your own wellbeing, in short, means to look after ourself. You're only human, and if the taxing nature of solving problems isn't enough to melt your mind after 20 minutes, then you still have the issue of staring at screens all day not being great for you. We've signed ourselves us for a really tricky job of basically being problem solvers, and all this brain power we're using can be drained very quickly. If you're anything like me, then the crying will take the last crumbs of energy you have left too hahaha. To look after yourself can take both physical and mental effort, in small steps, this could be taking a 5 minute break every hour, or making sure you ask for help after 20 minutes of being stuck, or even checkin in with yourself to see how you're feeling about a task. This is so important, as you're not going to do your best job if you're not your best self.
-
 
    ### Evidence and explanation
 
@@ -248,13 +250,10 @@
 
    ### Feedback
 
-  Kim : "You're great to talk to, you always give me a nice pep talk if I'm stressed and help ground me and plan out what I can do to solve my issues. I like how you're not afraid to ask me if you can vent or get my opinion on something too. If Yoda needs a day off I can always come to you."
-
-
+   Kim: General Life - "You're great to talk to, you always give me a nice pep talk if I'm stressed and help ground me and plan out what I can do to solve my issues. I like how you're not afraid to ask me if you can vent or get my opinion on something too. If Yoda needs a day off I can always come to you."
 
 
   ## I Can Learn Anything By Myself<a name="learn-anything" />
-
 
    ### What does it mean to be able to do this?
 
@@ -267,3 +266,5 @@
    ### Feedback
 
    Take a look at my Github, there's no way I would have been able to do all the things I've done if I didn't learn for myself. Also, I have a degree.. so I can learn for suresies.
+
+------------
