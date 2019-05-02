@@ -94,7 +94,7 @@
   I always used to have a bit of a complex when solving bugs, I used to think that if I couldn't do it, it was cheating to ask for help. But never suffer in silence, it's not productive. One big thing I've learnt is to not be so hard on myself, this stuff comes with knowledge, and that comes from experience. If you want a challenge but need some help, try just asking for a hint at what to look at. But there's nothing wrong with learning from the actions of others.
 
    ### Evidence and explanation
-
+  * [Me Debugging Acebook](https://youtu.be/8N-RRRv9MoY)
   * Screen recording of Acebook debugging - The bug that we squashed was lurking round the create method for new instant messages. Any time we'd try to create a new message, It would throw a NoMethodError. I started off by reading the error message on the screen, to find out what area was giving us grief. The error said that it was in the messages HTML page, so I went to investigate. There was nothing in there for me to really get any visibility on, so we moved back a step to the controller as I knew the controller needed to deal with any variables that the views needed. Once I had found an area to investigate, my next step was to get some visibility. I printed out the message instance variable to see whether it was picking up on what a message was. The stack trace in the terminal showed us an empty message instance so I knew that it wasn't an issue with the message itself. The error message we got in terminal showed that 'username' was an undefined method for user. This prompted me to look at what features I could call on my user. If it wasn't for this, my next option would have been to investigate whether my messages instance was holding the all the messages properly. Once going through the database for the Users, saw that I didn't actually have a username for my users, rather a first and last name. This prompted me to change the username to first name, which solved the bug and printed out the name of the user typing the message.
 
    ### Feedback
@@ -113,6 +113,7 @@
 
   * My Draw.io diagrams - I have a particular love for clarity, and while I can note down a messy plan should I need to, I much prefer to use Draw.io to make cute diagrams. I used to really struggle with modelling in the first couple of weeks, and I think a big part of it was I couldn't understand what the class diagrams from the workshops meant. After Sophie enlightened us to the various types of diagramming, I was kickstarted an awful lot after seeing that there's a wide variety of professional diagramming techniques. Once Kat told me that the most important thing is getting your ideas down on paper, I was much happier too. I've got a big collection of diagrams, from class to active flow, proving that I could diagram in a professional and clear way. However that's not as far as my diagramming skills go. In one particular workshop in week 3, a couple of my cohort members were struggling to understand the MVC model, and the HTTP Response diagram. Alice quite liked my ability to explain my point in a less technological way, so she asked me to make a poster to put up in the toilets which is pretty cool if you ask me. You can see it here..
 
+  ![](/Portfolio Images/ActiveFlow.png)
    ### Feedback
 
   Bart : Makers BnB- “It was really difficult to distinguish who did what during the week with the pairing sessions so feel that I can't really make an assessment from that. However, when we did pair up I felt the planning process was exceptional. The discussing, then researching, then implementing was top notch. I felt we bounced off each other well.”
@@ -154,8 +155,7 @@
 
   - Hopefully if I've managed to fix it then all is well! If I'm in a pair, then I ALWAYS make sure to explain what happened to the other person, it may be annoying / obvious to them, but it helps me consolidate what I did.
 
-  * Screen recordings of me debugging.
-  * Draw.io of my approach to solving a problem.
+  * [Me Debugging Acebook](https://youtu.be/8N-RRRv9MoY)
 
   One example of my approach stemmed from the week 6 makers BnB challenge. I put myself forward to work on making a SPA that interacted with an API we had created. The main reason I had put myself forward for this task was due to never working with this sort of technology myself before, so to a large extent, the whole task was a problem to be solved. I still followed a process towards combatting this task however, which followed the guidelines of my approach. I understood that the problem was that I didn't know how to start off a Javascript file that dealt with JQuery. I didn't know what was included, or what needed to be separated into a separate file or pretty much anything, so that was the first 3 steps wiped out! I decided to research into the JQuery thing, and got an awful lot of good info, but was still stuck on what needed to be in a separate file etc. I decided to ask my team for help, who helped me piece together the layout to my page. I then explained what had happened back to my helpful team members, who confirmed I knew what was going on!
 
