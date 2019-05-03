@@ -177,7 +177,7 @@
 
    - Hopefully if I've managed to fix it then all is well! If I'm in a pair, then I ALWAYS make sure to explain what happened to the other person, it may be annoying / obvious to them, but it helps me consolidate what I did.
 
-  
+
 
   One example of my approach stemmed from the week 6 makers BnB challenge. I put myself forward to work on making a SPA that interacted with an API we had created. The main reason I had put myself forward for this task was due to never working with this sort of technology myself before, so to a large extent, the whole task was a problem to be solved. I still followed a process towards combatting this task however, which followed the guidelines of my approach. I understood that the problem was that I didn't know how to start off a Javascript file that dealt with JQuery. I didn't know what was included, or what needed to be separated into a separate file or pretty much anything, so that was the first 3 steps wiped out! I decided to research into the JQuery thing, and got an awful lot of good info, but was still stuck on what needed to be in a separate file etc. I decided to ask my team for help, who helped me piece together the layout to my page. I then explained what had happened back to my helpful team members, who confirmed I knew what was going on!
 
@@ -193,7 +193,11 @@
 
    ### What does it mean to be able to do this?
 
+   working in an agile environment basically means to adopt a working approach that offers maximum flexibility, with minimal constraints in order to allow people to do their best work. This involves heightened interaction between all aspects of the project team to ensure clarity and harmonious synergy. In a more simple scenario, it means regular stand ups and retros to ensure everyone's on the same page, and being flexible with working hours and what best suits peoples needs. Basically a flexible working environment that's main goal is doing the task well.
+
    ### Evidence and explanation
+
+   In MakersBnB, We adopted a very Agile approach, as one of my team members had previous experience working Agile. We had stand ups every morning to check where we're all at and how we were feeling, along with retros every evening to see where we had left the project for the day. We also regularly checked in if we were struggling with something, and if it was a big problem we'd all mob it to sort it out. Agile working was very helpful for our group, as we worked towards the goal of strengthening our weaknesses rather than separating our roles out into strict departments.
 
    ### Feedback
 
@@ -201,6 +205,13 @@
   ## I Write Code That Is Easy To Change<a name="easy-to-change" />
 
    ### What does it mean to be able to do this?
+   In the professional development world, you're going to have to anticipate changes to clients needs. They may decide a week before release that they want a completely different feature or a new skin on their UI. Being able to have code that can be easy to change is a vital component to fluid development. Having code that's easy to change, at the very base of it, means that another developer can look at it, and amend it into something different, without the whole project blowing up (if done properly). Things you can do to ensure this are:
+
+   * Ensure that your architecture is clear and easy to read. As I've experienced with rails, there's hundreds of files in a small project, so it's vital that naming conventions are followed and things are in the right place.
+
+   * Keep your code clean. Make sure all conventions are followed and everything is neat. Code should be easy to read and if it isn't then someone else is going to have a real hard time changing that should they have to.
+
+   * Make sure nothing is coupled. If making a change in one module / class / view is going to ruin everything then it's not very easy to change. Each class should have one responsibility, and classes should have as little interaction with each other as possible. The more you stick to these rules, the easier your code will be to change.
 
    ### Evidence and explanation
 
@@ -232,9 +243,25 @@
 
    ### What does it mean to be able to do this?
 
+   To be able to grow collaboratively basically means you can grow together, and in a team context, it means that you can expand your knowledge and skills by expanding someone else's. This could be in the form of teaching more junior members about topics you're knowledgable or just generally being cooperative with your skills. People who don't grow collaboratively tend to be those who adopt the ideology that sharing knowledge is lessening your advantages above others. Good developers work well with others to get everyone up to scratch, which will make your shared project goal a lot easier to obtain. I personally find it great to collaborate with people, I can leech all their knowledge about something, use it to make myself a more skilled developer, then help others do the same.
+
    ### Evidence and explanation
 
+   * Before this course even started, I grew collaboratively an awful lot, more so on the absorbing end of the scale rather than the giving. During my pre makers life, I'd often pair after work with my developer friends on their problems to practice my pairing skills. I'd grown so much by listening and practicing that I grew strong enough to join the course. I'd paired with Junior front end Devs and Heads of Software in order to obtain as much knowledge as I could. I was then able to share what I knew with the cohort when I joined. An example of this is my knowledge of bootstrap, I was able to teach a fair few of my peers a much easier way of making pretty web pages by importing CSS libraries.
+
+   * During MakersBnB, my team and I grew together massively, not only in an emotional bond, but we learnt ridiculous amounts about things we dreamt up ourselves, all by working together. I developed my feedback skills as well as my ability to work with others who have a completely different style of coding to me. I came out feeling like I've grown as a developer, and have the feedback to prove it.
+
+   * When Alice overheard me explaining to my cohort members how the request-response cycle worked, she felt I did it in such a funny and clear way, she asked me to make posters to help educate everyone in Makers. This has been shown earlier in the portfolio, however I am proud of my abilities to work with Alice to make something that will help others grow their skills. It was cool.
+
    ### Feedback
+
+   Harry: Battle - "I'm really grateful that you showed me how to use CSS, as I find it hard to concentrate for a while on backend stuff. Now I'm able to take a break and make things look cool which is a lot more satisfying."
+
+   Sam: MakersBnB - "You were really good at listening and being patient when pairing with team mates who were almost complete opposites to you, as well as developing yourself following feedback you were given. I noticed that when Bart mentioned you could be loud during pairing sometimes, that you were a lot more conscious of it and ensured you kept yourself in check to not disturb others."
+
+   Puyan: Developer Pal - "Lauren was a great student, I really wanted to get into teaching others to code, and not only did she listen and practice the skills I showed her, but she also gave me feedback to help my teaching abilities."
+
+   Hiring partners that were looking round said they were very impressed with how my week 6 team worked together, and really liked our approach of working to our weaknesses rather than strengths in a team, in order to improve ourselves. They also said the web page looked cool so I'm very happy with that.
 
 ------------
 
@@ -249,7 +276,7 @@
 
    ### Evidence and explanation
 
-   I'd like to think I'm pretty good at looking after myself, however as this course went on, I found that actually I wasn't so great. I stupidly took the decision to try and lose weight when I started this course, something the coaches advised against on the first day too hahaha. I'd be eating significantly less and trying to fit in exercise when I can. This ended up in me not being able to focus at all for a good couple of weeks at makers. I then got to a point where I was so emotionally and physically drained, that I booked a meeting with Dana for a pep talk. Dana told me I was being waaay to hard on myself, and I needed to praise my small wins rather than thinking I can't do something. After our chat, I decided that I really needed to eat more healthy food, and stop trying to go to the gym every evening, in order to have some peace. I also started attending meditation and talking to my cohort about my worries and returning the emotional support they gave me. After this, I found my quality of work improved massively, and I could focus a lot more. I go to Yoga almost every week, and I make sure that I have at least one day coding free on the weekends. Everyone needs a break, and that's okay.
+   I'd like to think I'm pretty good at looking after myself, however as this course went on, I found that actually I wasn't so great. I stupidly took the decision to try and lose weight when I started this course, something the coaches advised against on the first day too hahaha. I'd be eating significantly less and trying to fit in exercise when I can. This ended up in me not being able to focus at all for a good couple of weeks at makers. I then got to a point where I was so emotionally and physically drained, that I booked a meeting with Dana for a pep talk. Dana told me I was being waaay to hard on myself, and that I needed to praise my small wins rather than thinking I can't do something. After our chat, I decided that I really needed to eat more healthy food, and stop trying to go to the gym every evening, in order to have some peace. I also started attending meditation and talking to my cohort about my worries and returning the emotional support they gave me. After this, I found my quality of work improved massively, and I could focus a lot more. I go to Yoga almost every week, and I make sure that I have at least one day coding free on the weekends. Everyone needs a break, and that's okay.
 
    ### Feedback
 
