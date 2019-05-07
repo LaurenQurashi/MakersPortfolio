@@ -1,10 +1,25 @@
 
-1. How do you get credible evidence for being able to programme fluently?
-2. Are commit histories enough to show that you've refactored something? or have code that's easy to change?
-3. What can I do for evidence for problem solving?
-4. Is the evidence for Succeeding Teams purely from feedback from my team members?
+
+
+
+
+
 
 
 things to do -
-- Draw.io a flow chart of my problem solving process.
-- Go through commit history for Battle to get evidence for good commits.
+
+Problem Solving:
+- Draw.io a flow chart of what I'd do to implement ActionCable, ie break down the components and what i'd work on first..
+
+Programme Fluently:
+- Film me doing a process workshop task. Make sure there's no flailing and you know what to do next.
+
+Refactor anything:
+- Go back and refactor a file in one of my repos.
+- Do Bank and then refactor out into separate classes.
+
+
+
+
+- Find commit history and the merge requests for MakersBnB, how we approved each others' branches.
+- Find evidence that Henry and Sam were able to use my back end work...

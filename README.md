@@ -52,7 +52,7 @@
    * [Me TDD'ing Fizzbuzz Javascript](https://youtu.be/1MdWAMm-U_s)
 
 
-   * The Notes App - Javascript repo. This project was our first introduction into testing without a testing framework such as RSpec or Jasmine to help us along. I feel that this repo shows that I can write clear, concise tests, without the help of a testing framework. The tests in this repo follow 'the next smallest step' kind of fashion, and are also riddled with doubles and mocks to ensure that I'm testing what I want to test. This repo also shows a good example, in the notes-list-spec.js file, of my fave TDD'ing process Red to Green. I started off testing the smallest thing that is required of this object - that my notes list contained an array. The tests progressively grow in small steps, into a list of notes that I was completely confident of. This testing checks the behaviour of the list rather than the state, and ensures I am testing the right thing by employing doubles. In the first 5 weeks, I really struggled with mocks and doubles, especially in Rspec. I found I could completely understand their purpose and how they worked, but I just couldn't implement them into my work. After moving onto javascript, I found I could easily implement doubles into my work which flourished my ability to identify the need for them in my projects. I now feel comfortable in saying that I have a good understanding of not only why we test, but how to test effectively.  
+   * [The Notes App - Javascript Repo](https://github.com/LaurenQurashi/NotesApp/tree/master/spec). This project was our first introduction into testing without a testing framework such as RSpec or Jasmine to help us along. I feel that this repo shows that I can write clear, concise tests, without the help of a testing framework. The tests in this repo follow 'the next smallest step' kind of fashion, and are also riddled with doubles and mocks to ensure that I'm testing what I want to test. This repo also shows a good example, in the notes-list-spec.js file, of my fave TDD'ing process Red to Green. I started off testing the smallest thing that is required of this object - that my notes list contained an array. The tests progressively grow in small steps, into a list of notes that I was completely confident of. This testing checks the behaviour of the list rather than the state, and ensures I am testing the right thing by employing doubles. In the first 5 weeks, I really struggled with mocks and doubles, especially in Rspec. I found I could completely understand their purpose and how they worked, but I just couldn't implement them into my work. After moving onto javascript, I found I could easily implement doubles into my work which flourished my ability to identify the need for them in my projects. I now feel comfortable in saying that I have a good understanding of not only why we test, but how to test effectively.  
 
    * Airport - Ruby repo. This repo shows my first experience in TDD, and while it may not be the best example of testing, it helps illustrate how far I've come since week 1. I do feel however, that this example shows  that during week 1 that I got stuck into the testing and shows evidence of me understanding the basics of what a good test is.
 
@@ -197,9 +197,17 @@
 
    ### Evidence and explanation
 
+   * [Code Review of Acebook Merge Request](https://github.com/m-budryte/acebook-zuckerbros/pull/35) - To follow an Agile methodology in our Acebook teams, we ensured that at least 2 people reviewed someone else's merge request. We added comments and sought after answers before confirming the merges. Along with Travis CI running, this ensured that everything in our master branch was good quality code that could be deployed.
+
+   * [Trello Board for Acebook](https://trello.com/b/VY8HRxj7/zuckerbros) - To follow an Agile methodology in our Acebook group, we also used a card board so that communications could be visualised by all. We assigned ourselves to tickets and used Fibonacci numbers to rate the complexity of tasks. This ensured that everyone knew who was doing what, and how complex / high priority of a task something was.
+
    In MakersBnB, We adopted a very Agile approach, as one of my team members had previous experience working Agile. We had stand ups every morning to check where we're all at and how we were feeling, along with retros every evening to see where we had left the project for the day. We also regularly checked in if we were struggling with something, and if it was a big problem we'd all mob it to sort it out. Agile working was very helpful for our group, as we worked towards the goal of strengthening our weaknesses rather than separating our roles out into strict departments.
 
    ### Feedback
+
+   Michael (coach): Acebook - "I like the Fibonacci numbers on your Trello board, that's a cool idea. It also seems like you've got everything organised clearly on there."
+
+   Masha: Acebook - "Lauren did a great job ensuring we all knew what she was doing and was first in line to help if someone was stuck on something. It was also her idea to see if the group would be happy with independent study in the mornings to research stuff we're implementing in the project."
 
 
   ## I Write Code That Is Easy To Change<a name="easy-to-change" />
