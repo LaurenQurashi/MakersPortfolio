@@ -1,4 +1,4 @@
-# Makers Portfolio - Lauren Qurashi: March 2019
+# Makers Portfolio - Lauren Qurashi: June 2019
 --------------
 
 ## Table of Contents
