@@ -1,4 +1,4 @@
-# Makers Portfolio - Lauren Qurashi: March 2019
+# Makers Portfolio - Lauren Qurashi
 --------------
 
 ## Table of Contents
@@ -222,6 +222,8 @@
    * Make sure nothing is coupled. If making a change in one module / class / view is going to ruin everything then it's not very easy to change. Each class should have one responsibility, and classes should have as little interaction with each other as possible. The more you stick to these rules, the easier your code will be to change.
 
    ### Evidence and explanation
+   * Talk about Oystercard / Boris bikes and how others would have to pick up my code.
+   * Talk about swapping in MakersBnB and Acebook.
 
    ### Feedback
 
@@ -234,7 +236,7 @@
 
    ### Evidence and explanation
 
-   * During the Acebook challenge, My team and I were set with the task of adding an instant chatroom to our project. After some independent research, we all came together to discuss our options. We found that there was a gem we could install that basically did it all for us. All of us agreed that the Gem would be the best option for our project, however I put forward the suggestion that we don't go down the gem route as it would be detrimental to our learning. I explained that it would be better for all of us to manually follow the Action Cable route so that we can understand what's going on. After hearing feedback from the group, they all agreed despite it elongating the implementation. Another thing we all agreed on was to take a but of a turn from the traditional Agile way of working. Instead of giving individual members or pairs certain tasks, we all paired up and completed the same task in order to make sure that everyone's had a chance to practice implementing this.
+   * [Action Cable - Acebook](https://github.com/LaurenQurashi/acebook-zuckerbros/commit/c11f695602203f745845fe0349acfb1630fcd548) - During the Acebook challenge, My team and I were set with the task of adding an instant chatroom to our project. After some independent research, we all came together to discuss our options. We found that there was a gem we could install that basically did it all for us. All of us agreed that the Gem would be the best option for our project, however I put forward the suggestion that we don't go down the gem route as it would be detrimental to our learning. I explained that it would be better for all of us to manually follow the Action Cable route so that we can understand what's going on. After hearing feedback from the group, they all agreed despite it elongating the implementation. Another thing we all agreed on was to take a but of a turn from the traditional Agile way of working. Instead of giving individual members or pairs certain tasks, we all paired up and completed the same task in order to make sure that everyone's had a chance to practice implementing this.
 
    * During the MakersBnB challenge, we also decided to work a little differently than the norm by playing to our weaknesses rather than our strengths. I felt it would be more beneficial for myself to work on things I've not dealt with before, and after speaking to the team about whether they'd be happy with this, they agreed and decided to adopt the approach for the whole team. We all walked away with some new knowledge and we even managed to build an API completely off our own backs and from our own learning. It's one of the things I'm most proud of during my time here!
 
@@ -284,7 +286,7 @@
 
    ### Evidence and explanation
 
-   I'd like to think I'm pretty good at looking after myself, however as this course went on, I found that actually I wasn't so great. I stupidly took the decision to try and lose weight when I started this course, something the coaches advised against on the first day too hahaha. I'd be eating significantly less and trying to fit in exercise when I can. This ended up in me not being able to focus at all for a good couple of weeks at makers. I then got to a point where I was so emotionally and physically drained, that I booked a meeting with Dana for a pep talk. Dana told me I was being waaay to hard on myself, and that I needed to praise my small wins rather than thinking I can't do something. After our chat, I decided that I really needed to eat more healthy food, and stop trying to go to the gym every evening, in order to have some peace. I also started attending meditation and talking to my cohort about my worries and returning the emotional support they gave me. After this, I found my quality of work improved massively, and I could focus a lot more. I go to Yoga almost every week, and I make sure that I have at least one day coding free on the weekends. Everyone needs a break, and that's okay.
+   I'd like to think I'm pretty good at looking after myself, however as this course went on, I found that actually I wasn't so great. I stupidly took the decision to try and lose weight when I started this course, something the coaches advised against on the first day too hahaha. I'd be eating significantly less and trying to fit in exercise when I can. This ended up in me not being able to focus at all for a good couple of weeks at makers. I then got to a point where I was so emotionally and physically drained, that I booked a meeting with Dana for a pep talk. Dana told me I was being way to hard on myself, and that I needed to praise my small wins rather than thinking I can't do something. After our chat, I decided that I really needed to eat more healthy food, and stop trying to go to the gym every evening, in order to have some peace. I also started attending meditation and talking to my cohort about my worries and returning the emotional support they gave me. After this, I found my quality of work improved massively, and I could focus a lot more. I go to Yoga almost every week, and I make sure that I have at least one day coding free on the weekends. Everyone needs a break, and that's okay.
 
    ### Feedback
 
